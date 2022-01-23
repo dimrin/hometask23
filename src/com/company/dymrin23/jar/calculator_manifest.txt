@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Package: com.company.dymrin23.jar
+Main-Class: com.company.dymrin23.jar.CalculatorApp
+Created-By: VADYM_DOBRIN
